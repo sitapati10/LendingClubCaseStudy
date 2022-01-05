@@ -16,13 +16,13 @@
 - Using Bivariate analysis identify the most imapacting columns to get defaulters
 
 ## Conclusions
--High interest rate on loans more chances of being defaulters.
--Lower the annual income high chances of being defaulters.
--Higher the group and sub group the defaulters increase.
--Loans given for small scale business purpose have more number of defaulters.
--If the term to repay increases the defaulters also increase
--Loans taken for Debt consolidation and Credit payment have high defaulters
--Borrowers who have previously defaulters are more likely to be defaulters again.
+- High interest rate on loans more chances of being defaulters.
+- Lower the annual income high chances of being defaulters.
+- Higher the group and sub group the defaulters increase.
+- Loans given for small scale business purpose have more number of defaulters.
+- If the term to repay increases the defaulters also increase
+- Loans taken for Debt consolidation and Credit payment have high defaulters
+- Borrowers who have previously defaulters are more likely to be defaulters again.
 
 ## Technologies Used
 - Python 3.6
